@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Here are some of the demo screenshot for you
 ## screenshot 1
-<img src="Screenshot_2020-11-07-22-13-38-327_com.example.Magic8Ball (1).jpg
-"
+<img src="Screenshot_2020-11-07-22-13-38-327_com.example.Magic8Ball (1).jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" width="400" />  
 ## screenshot 2
