@@ -1,34 +1,17 @@
 # Magic8Ball
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 ## Here are some of the demo screenshot for you
-## screenshot 1
 <img src="Screenshot_2020-11-07-22-13-38-327_com.example.Magic8Ball (1).jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="400" />  
-## screenshot 2
- <img src="Screenshot_2020-11-07-22-14-34-434_com.example.Magic8Ball.jpg"
+     height="500em" /> <img src="Screenshot_2020-11-07-22-14-34-434_com.example.Magic8Ball.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="400" /> 
-## screenshot 3
- <img src="Screenshot_2020-11-07-22-14-43-755_com.example.Magic8Ball.jpg"
+      height="500em"/> <img src="Screenshot_2020-11-07-22-14-43-755_com.example.Magic8Ball.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="400" />    
-## screenshot 4
- <img src="Screenshot_2020-11-07-22-14-48-727_com.example.Magic8Ball.jpg"
+      height="500em"/> <img src="Screenshot_2020-11-07-22-14-48-727_com.example.Magic8Ball.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="400" />     
+     height="500em" />     
+     
+## Created & Maintained By
+
+[@Shuvam Koirala](https://github.com/shuvam-koirala) ([Linkedin](https://www.linkedin.com/in/shuvam-koirala "LinkedIn Shuvam Koirala")) ([Youtube](https://www.youtube.com/channel/UCxei3a_ocUPux_foujUxYUg)) ([Medium](https://medium.com/@suvamkoirala08 "Medium Shuvam Koirala")) ([Facebook](https://www.facebook.com/shuvu00 "Facebook Shuvam Koirala")) ([Instagram](https://www.instagram.com/shuvu1112 "Instagram Shuvam Koirala")) ([Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshuvam-koirala&screen_name=koirala_shuvam "Twitter Shuvam Koirala"))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, star this repo ⭐.
